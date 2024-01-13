@@ -1,0 +1,15 @@
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\bin\Debug\net6.0\Codeacdemycompany.BLL.deps.json
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\bin\Debug\net6.0\Codeacdemycompany.BLL.dll
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\bin\Debug\net6.0\Codeacdemycompany.BLL.pdb
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\bin\Debug\net6.0\CodeacdemyCompany.DAL.dll
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\bin\Debug\net6.0\CodeacdemyCompany.DAL.pdb
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\obj\Debug\net6.0\Codeacdemycompany.BLL.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\obj\Debug\net6.0\Codeacdemycompany.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\obj\Debug\net6.0\Codeacdemycompany.BLL.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\obj\Debug\net6.0\Codeacdemycompany.BLL.AssemblyInfo.cs
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\obj\Debug\net6.0\Codeacdemycompany.BLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\obj\Debug\net6.0\Codeacdemycompany.BLL.csproj.CopyComplete
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\obj\Debug\net6.0\Codeacdemycompany.BLL.dll
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\obj\Debug\net6.0\refint\Codeacdemycompany.BLL.dll
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\obj\Debug\net6.0\Codeacdemycompany.BLL.pdb
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\Codeacdemycompany.BLL\obj\Debug\net6.0\ref\Codeacdemycompany.BLL.dll

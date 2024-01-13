@@ -1,0 +1,12 @@
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\CodeacdemyCompany.DAL\bin\Debug\net6.0\CodeacdemyCompany.DAL.deps.json
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\CodeacdemyCompany.DAL\bin\Debug\net6.0\CodeacdemyCompany.DAL.dll
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\CodeacdemyCompany.DAL\bin\Debug\net6.0\CodeacdemyCompany.DAL.pdb
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\CodeacdemyCompany.DAL\obj\Debug\net6.0\CodeacdemyCompany.DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\CodeacdemyCompany.DAL\obj\Debug\net6.0\CodeacdemyCompany.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\CodeacdemyCompany.DAL\obj\Debug\net6.0\CodeacdemyCompany.DAL.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\CodeacdemyCompany.DAL\obj\Debug\net6.0\CodeacdemyCompany.DAL.AssemblyInfo.cs
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\CodeacdemyCompany.DAL\obj\Debug\net6.0\CodeacdemyCompany.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\CodeacdemyCompany.DAL\obj\Debug\net6.0\CodeacdemyCompany.DAL.dll
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\CodeacdemyCompany.DAL\obj\Debug\net6.0\refint\CodeacdemyCompany.DAL.dll
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\CodeacdemyCompany.DAL\obj\Debug\net6.0\CodeacdemyCompany.DAL.pdb
+C:\Users\admin\Downloads\makeen\Coding\CodeacedmyCompany\CodeacdemyCompany.DAL\obj\Debug\net6.0\ref\CodeacdemyCompany.DAL.dll
